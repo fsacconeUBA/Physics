@@ -13,3 +13,6 @@ posición y tiempo de encuentro.
 
 “Difracción.ipynb” y “Difracción dos rendijas.ipynb”:: simulación del patrón de difracción de una y dos rendijas de ancho b con luz monocromática de longitud de onda λ
 
+"3 Body Problem.ipynb" y "3 Cuerpos.ipynb" corresponden a modelización de trayectorias de un cuerpo celeste adicional agregado al sistema Tierra-Luna
+
+"KJMA Voronoi.ipynb" corresponde a modelización de procesos de transformación basados en teselación de Voronoi, Poisson Disk y Kolmogorov-Johnson-Mehl-Avrami
